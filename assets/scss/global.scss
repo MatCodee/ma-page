@@ -1,0 +1,57 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.material-design-icon.icon-2x {
+    height: 2em;
+    width: 2em;
+  }
+  
+  .material-design-icon.icon-2x > .material-design-icon__svg {
+    height: 2em;
+    width: 2em;
+  }
+
+.global-container {
+    width: 80%;
+    max-width: 1500px;
+    margin: auto;
+}
+@media screen and (max-width: 1424px) {
+    .global-container {
+        width: 95%;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .global-container {
+        width: 95%;
+    }
+}
+/* Utils class scss */
+.m-bottom {
+    margin-bottom: 100px;
+}
+.mlg-bottom {
+    margin-bottom: 200px;
+}
+
+
+.btn-primary {
+    padding: 15px 40px;
+    background-color: $primary-c;
+    color: $white-l;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 50px;
+    font-size: 1rem;
+}
