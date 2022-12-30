@@ -1,3 +1,20 @@
+<script>
+import MenuIcon from "vue-material-design-icons/Menu.vue";
+export default {
+  data() {
+    return {
+      toggleButton: false,
+    }
+  },
+  components: {
+    MenuIcon,
+  },
+  methods: {
+    openTogleButton() { this.toggleButton = !this.toggleButton; }
+  }
+};
+</script>
+
 <template>
   <header class="m-bottom">
     <div class="header-container">
@@ -23,22 +40,7 @@
     </div>
   </header>
 </template>
-<script>
-import MenuIcon from "vue-material-design-icons/Menu.vue";
-export default {
-  data() {
-    return {
-      toggleButton: false,
-    }
-  },
-  components: {
-    MenuIcon,
-  },
-  methods: {
-    openTogleButton() { this.toggleButton = !this.toggleButton; }
-  }
-};
-</script>
+
 <style lang="scss" scoped>
 .menu-icon {
   display: none;
