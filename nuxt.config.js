@@ -37,7 +37,11 @@ export default {
     //'@nuxtjs/eslint-module'
     '@nuxtjs/style-resources',
     '~/modules/material-design-icons.js',
+    'nuxt-gsap-module',
   ],
+  gsap: {
+    /* Module Options */
+  },
   styleResources: {
     scss: [
       '~assets/scss/mixins.scss',
@@ -48,7 +52,7 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios'
+    '@nuxtjs/axios',
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
