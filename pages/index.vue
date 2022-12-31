@@ -3,8 +3,6 @@
     <Header />
     <Section />
     <Footer />
-
-    <PulseLoader/>
   </div>
 </template>
 <script>
@@ -13,6 +11,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+
+
 .global-container {
   width: 80%;
   max-width: 1500px;

@@ -1,9 +1,9 @@
 <template>
-    <div class="container-grid mlg-bottom">
-        <div class="item">
+    <div class="container-grid mlg-bottom" data-aos-delay="500">
+        <div class="item" data-aos="fade-up">
             <img src="@/assets/images/group2.png" alt="">
         </div>
-        <div class="item">
+        <div class="item" data-aos="fade-up" data-aos-delay="500">
             <h2>Make your bussiness with  Marketing Agency</h2>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque blanditiis rerum consectetur sequi magni? Praesentium adipisci repellendus vero maxime explicabo, non dolorem dicta facere, at velit odit alias, aliquam maiores.</p>
             <a href="#" class="btn-primary">Comenzar</a>
