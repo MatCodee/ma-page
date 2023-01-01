@@ -1,15 +1,15 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'growiit',
+    title: 'Agencia de Marketing Digital -  growiit',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'es'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Crecer tu negocio con inteligencia artificial, somos una agencia de marketing digital ' },
-      { name: 'keywords', content: "Agencia, Marketing, Negocio, Publicidad, Crear"},
+      { hid: 'description', name: 'description', content: 'Esta es una pagina de una agencia de marketing digital, donde el objetivo es crecer los negocios de los clientes' },
+      { name: 'keywords', content: "Agencia, Marketing, Negocio,Tegnologia,Publicidad, Digital"},
       { name:"author", content:"Matias Altamirano" },
       { name:"copyright", content:"Propietario del copyright" },
       { name:"robots", content:"index" },
