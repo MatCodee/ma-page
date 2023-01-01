@@ -1,11 +1,11 @@
 <template>
     <div class="container-grid mlg-bottom" data-aos-delay="500">
         <div class="item" data-aos="fade-up">
-            <img src="@/assets/images/group2.png" alt="">
+            <img src="@/assets/images/group2.png" alt="Imagen de servicios de la agencia de marketing">
         </div>
         <div class="item" data-aos="fade-up" data-aos-delay="500">
-            <h2>Make your bussiness with  Marketing Agency</h2>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque blanditiis rerum consectetur sequi magni? Praesentium adipisci repellendus vero maxime explicabo, non dolorem dicta facere, at velit odit alias, aliquam maiores.</p>
+            <h2>Servicios de nuestra Agencia de Marketing</h2>
+            <p> Resolvemos tus problemas aplicando metodologias de grow marketing para lograr los mejores resultados para tu negocio.</p>
             <a href="#" class="btn-primary">Comenzar</a>
         </div>
     </div> 

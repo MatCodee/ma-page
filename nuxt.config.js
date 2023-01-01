@@ -1,14 +1,19 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'gorwiit',
+    title: 'growiit',
     htmlAttrs: {
       lang: 'en'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'Crecer tu negocio con inteligencia artificial, somos una agencia de marketing digital ' },
+      { name: 'keywords', content: "Agencia, Marketing, Negocio, Publicidad, Crear"},
+      { name:"author", content:"Matias Altamirano" },
+      { name:"copyright", content:"Propietario del copyright" },
+      { name:"robots", content:"index" },
+
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [

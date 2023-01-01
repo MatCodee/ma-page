@@ -2,10 +2,9 @@
   <div class="content-element">
     <div class="container-grid mlg-bottom">
       <div class="item" data-aos="fade-right" data-aos-delay="300" data-aos-duration="1000">
-        <h2>Make your bussiness with Marketing Agency</h2>
+        <h1>Crecemos tu negocio con nuestra agencia de Marketing</h1>
         <p>
-          Our motto is to fullfil customer demand by making them satisfied with
-          growing their bussinessr
+          Sabemos que tu negocio te es importante para ti, asi que tu negocio es nuestro negocio
         </p>
         <div class="container-contact-quick">
           <div class="input-container">
@@ -15,18 +14,18 @@
         </div>
       </div>
       <div class="item">
-        <img class="mov-img" src="@/assets/images/group1.png" alt="" />
+        <img class="mov-img" src="@/assets/images/group1.png" alt="Imagen de personas de la empresa de agencia de marketing" />
       </div>
     </div>
   
     <div class="card-layout box-dinamic1 pos-1">
-          <img src="@/assets/images/icon1.png" alt="">     
+          <img src="@/assets/images/icon1.png" alt="imagen de icono growiit">     
     </div>
     <div class="card-layout box-dinamic2 pos-2">
-          <img src="@/assets/images/icon2.png" alt="">     
+          <img src="@/assets/images/icon2.png" alt="imagen de icono growiit">     
     </div>
     <div class="card-layout box-dinamic1 pos-3">
-          <img src="@/assets/images/icon3.png" alt="">     
+          <img src="@/assets/images/icon3.png" alt="imagen de icono growiit">     
     </div>
 
   </div>

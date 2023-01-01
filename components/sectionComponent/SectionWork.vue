@@ -1,7 +1,7 @@
 <template>
     <div class="container-work mlg-bottom" data-aos="fade-up" data-aos-delay="500">
-        <h3>Our Work</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod assumenda consectetur, ratione eligendi expedita ipsum consequuntur reiciendis quae nulla veniam tempora temporibus porro facere ab unde magnam, cupiditate nostrum?</p>
+        <h3>Nuestro Trabajo</h3>
+        <p>Nuestro trabajo en la agencia de Marketing nos apasiona lo que hacemos</p>
         <div class="container-card-projects">
             <div v-for="(p,index) in projects" :key="index">
                 <ProjectCard :project="p" />

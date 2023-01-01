@@ -1,6 +1,6 @@
 <template>
     <div class="container-card">
-        <img :src="project.image" alt="">
+        <img :src="project.image" alt="Imagen de proyectos de la agencia de Marketing">
         <h3>{{project.title}}</h3>
         <p>{{ project.description  }}</p>
     </div>

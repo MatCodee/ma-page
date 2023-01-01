@@ -1,7 +1,7 @@
 <template>
     <div class="container-grid mlg-bottom">
         <div class="item">
-            <img src="@/assets/images/group3.png" alt="">
+            <img src="@/assets/images/group3.png" alt="Imagen de la empresa growiit de marketing digital">
         </div>
         <div class="item">
             <h2>Make your bussiness with  Marketing Agency</h2>

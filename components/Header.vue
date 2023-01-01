@@ -1,7 +1,7 @@
 <template>
   <header class="m-bottom">
     <div class="header-container">
-      <img src="@/assets/images/logo.svg" class="header-logo" alt="" />
+      <img src="@/assets/images/logo.svg" class="header-logo" alt="logo de la empresa growiit" />
       <ul>
         <li><a href="#">Como funciona</a></li>
         <li><a href="#">Nuestro Trabajo</a></li>
@@ -11,7 +11,7 @@
       <MenuIcon @click="openTogleButton()" />
       <div class="menu" :class="{ active: toggleButton }">
         <div class="menu-show-links">
-          <img src="@/assets/images/logo.svg" class="header-logo" alt="" />
+          <img src="@/assets/images/logo.svg" class="header-logo" alt="logo de la empresa growiit" />
           <h3>Bienvenido a Growiit</h3>
           <ul>
             <li><a href="#">Como funciona</a></li>
