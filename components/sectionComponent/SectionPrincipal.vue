@@ -80,7 +80,7 @@ export default {
   grid-template-columns: repeat(2, minmax(300px, 1fr));
   gap: 10px;
   .item {
-    h2 {
+    h1 {
       font-size: 4rem;
       font-weight: 700;
       margin-bottom: 20px;
