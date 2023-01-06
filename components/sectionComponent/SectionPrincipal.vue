@@ -131,7 +131,7 @@ export default {
       }
     }
     @media screen and (max-width: 800px) {
-      h2 {
+      h1 {
         font-size: 2.2rem;
       }
     }
