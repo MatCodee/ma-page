@@ -56,7 +56,7 @@ export default {
         },
         {
           id: 3,
-          src: require("@/assets/images/desing/desing1.jpg"),
+          src: require("@/assets/images/Desing/desing1.jpg"),
           alt: "image3",
           filter: "desing",
           visible: true,
