@@ -1,0 +1,44 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+
+.dark-mode body {
+    background-color: rgb(0, 0, 0);
+}
+
+:root {
+    --color: #243746;
+    --color-primary: #158876;
+    --color-secondary: #0e2233;
+    --bg: #f3f5f4;
+    --bg-secondary: #fff;
+    --border-color: #ddd;
+    --font-color-e: #3e3e3e;
+    --bg-s :rgba(241,241,241,1) 9%;
+    --bg-p: rgba(255,145,211,1) 100%;
+  }
+  
+  .dark-mode {
+    --color: #ebf4f1;
+    --color-primary: #41b38a;
+    --color-secondary: #fdf9f3;
+    --bg: #091a28;
+    --bg-secondary: #071521;
+    --border-color: #0d2538;
+
+    --font-color-e: #ffffff;
+    --font-color-e-light: rgb(154, 154, 154);
+    --bg-s: rgb(39, 39, 39) 9%;
+    --bg-p: rgb(30, 30, 30) 100%;
+  }
+
+  .light-mode {
+    --color: #433422;
+    --color-secondary: #504231;
+    --bg: #f1e7d0;
+    --bg-secondary: #eae0c9;
+    --border-color: #ded0bf;
+    --font-color-e: #3e3e3e;
+}

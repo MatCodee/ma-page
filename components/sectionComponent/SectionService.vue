@@ -1,11 +1,11 @@
 <template>
-    <div class="container-grid mlg-bottom" data-aos-delay="500">
-        <div class="item" data-aos="fade-up">
-            <img src="@/assets/images/group2.png" alt="Imagen de servicios de la agencia de marketing">
+    <div class="container-grid mlg-bottom">
+        <div class="item" data-aos="fade-up" data-aos-delay="100" data-aos-duration="2000">
+            <img src="@/assets/images/group2.jpg" alt="Imagen de servicios de la agencia de marketing">
         </div>
-        <div class="item" data-aos="fade-up" data-aos-delay="500">
-            <h2>Servicios de nuestra Agencia de Marketing</h2>
-            <p> Resolvemos tus problemas aplicando metodologias de grow marketing para lograr los mejores resultados para tu negocio.</p>
+        <div class="item" data-aos="fade-up" data-aos-delay="100" data-aos-duration="2000">
+            <h2> Nuestro Servicio </h2>
+            <p> Ofrecemos una amplia gama de servicios de marketing, incluyendo publicidad en línea, marketing automatizado, inteligencia artificial, marketing de contenidos, SEO, y estrategias de email marketing. Además, ofrecemos servicios de análisis y medición de resultados para ayudar a nuestros clientes a medir el éxito de sus campañas. </p>
             <a href="#" class="btn-primary">Comenzar</a>
         </div>
     </div> 
@@ -19,13 +19,13 @@
     gap: 20px;
     .item {
         h2 {
-            font-size: 4rem;
+            font-size: 3rem;
             font-weight: 700;
             margin-bottom: 20px;
         }
         p {
             color: $gray-b;
-            font-size: 1rem;
+            font-size: 1.4rem;
             margin-bottom: 30px;
         }
         .container-contact-quick {

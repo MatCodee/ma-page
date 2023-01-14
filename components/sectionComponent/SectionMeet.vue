@@ -4,8 +4,8 @@
             <img src="@/assets/images/group3.png" alt="Imagen de la empresa growiit de marketing digital">
         </div>
         <div class="item">
-            <h2>Make your bussiness with  Marketing Agency</h2>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque blanditiis rerum consectetur sequi magni? Praesentium adipisci repellendus vero maxime explicabo, non dolorem dicta facere, at velit odit alias, aliquam maiores.</p>
+            <h2>Nuestro Equipo</h2>
+            <p> as formas de ayudar a nuestros clientes a alcanzar sus objetivos de negocio. También valoramos la excelencia en todo lo que hacemos, desde la entrega de proyectos hasta la atención al cliente. Estamos comprometidos a brindar un servicio de alta calidad a nuestros clientes y a superar sus expectativas en todo momento.</p>
         </div>
     </div> 
 </template>
@@ -24,7 +24,7 @@
         }
         p {
             color: $gray-b;
-            font-size: 1rem;
+            font-size: 1.4rem;
             margin-bottom: 30px;
         }
         .container-contact-quick {

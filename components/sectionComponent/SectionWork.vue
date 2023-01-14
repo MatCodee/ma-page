@@ -1,5 +1,5 @@
 <template>
-    <div class="container-work mlg-bottom" data-aos="fade-up" data-aos-delay="500">
+    <div class="container-work mlg-bottom" data-aos="fade-up" data-aos-delay="300" data-aos-duration="2000">
         <h3>Nuestro Trabajo</h3>
         <p>Nuestro trabajo en la agencia de Marketing nos apasiona lo que hacemos</p>
         <div class="container-card-projects">
@@ -7,7 +7,7 @@
                 <ProjectCard :project="p" />
             </div>
         </div>
-        <a href="#" class="btn-primary">See more</a>
+        <nuxt-link class="btn-primary" to="portafolio">See more</nuxt-link>
     </div>
 </template>
 
@@ -18,18 +18,18 @@ export default {
         return {
             projects: [
                 {
-                    title: 'hola',
-                    description: 'hola',
+                    title: 'Desarrollo Web',
+                    description: 'Creacion de us sitio a su medida',
                     image: require('@/assets/images/p1.png')
                 },
                 {
-                    title: 'hola',
-                    description: 'hola',
+                    title: 'Posicionamiento SEO',
+                    description: 'Posicionar su sitio en los primeros lugares de la internet',
                     image: require('@/assets/images/p2.png')
                 },
                 {
-                    title: 'hola',
-                    description: 'hola',
+                    title: 'Rediseño de su pagina web',
+                    description: 'Mejorar la interfaz enfocandose en su usuario',
                     image: require('@/assets/images/p3.png')
                 }
             ]
@@ -49,6 +49,7 @@ export default {
             font-size: 3rem;
         }
         p {
+            font-size: 1.6rem;
             max-width: 800px;
             margin: auto;
             color: $gray-b;
