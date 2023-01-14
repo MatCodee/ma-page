@@ -1,0 +1,43 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/base-project-card.js": "components/base-project-card.js",
+    "components/filter-button.js": "components/filter-button.js",
+    "components/filter-image.js": "components/filter-image.js",
+    "components/loader.js": "components/loader.js",
+    "components/material-icon-alarm.js": "components/material-icon-alarm.js",
+    "components/material-icon-phone.js": "components/material-icon-phone.js",
+    "components/section-initial.js": "components/section-initial.js",
+    "components/section-meet.js": "components/section-meet.js",
+    "components/section-principal.js": "components/section-principal.js",
+    "components/section-service.js": "components/section-service.js",
+    "components/section-work.js": "components/section-work.js",
+    "components/section.js": "components/section.js",
+    "components/tutorial.js": "components/tutorial.js",
+    "pages/index.js": "pages/index.js",
+    "pages/nosotros.js": "pages/nosotros.js",
+    "pages/portafolio.js": "pages/portafolio.js",
+    "pages/servicios.js": "pages/servicios.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/base-project-card.js": "components/base-project-card.js.map",
+    "components/filter-button.js": "components/filter-button.js.map",
+    "components/filter-image.js": "components/filter-image.js.map",
+    "components/loader.js": "components/loader.js.map",
+    "components/material-icon-alarm.js": "components/material-icon-alarm.js.map",
+    "components/material-icon-phone.js": "components/material-icon-phone.js.map",
+    "components/section-initial.js": "components/section-initial.js.map",
+    "components/section-meet.js": "components/section-meet.js.map",
+    "components/section-principal.js": "components/section-principal.js.map",
+    "components/section-service.js": "components/section-service.js.map",
+    "components/section-work.js": "components/section-work.js.map",
+    "components/section.js": "components/section.js.map",
+    "components/tutorial.js": "components/tutorial.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/nosotros.js": "pages/nosotros.js.map",
+    "pages/portafolio.js": "pages/portafolio.js.map",
+    "pages/servicios.js": "pages/servicios.js.map",
+    "server.js": "server.js.map"
+  }
+}
