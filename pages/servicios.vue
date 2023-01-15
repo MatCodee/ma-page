@@ -42,8 +42,8 @@ export default {
     methods: {
         animaion_card() {
             const tl = this.$gsap.timeline({ defaults: { ease: 'power3.inOut' } });
-            tl.from('.container-title',{ duration: 2.5, y: '+=50', autoAlpha: 0 }),
-            tl.from('.card', { duration: 1, y: '+=50', autoAlpha: 0 })
+            tl.from('.container-title', {duration: 1, opacity: 0, ease: 'expo.inOut', stagger: {amount : 0.5}}),
+            tl.from('.card', {duration: 1, opacity: 0, ease: 'expo.inOut', stagger: {amount : 0.5}})
 
         }
     },
@@ -71,7 +71,7 @@ export default {
     justify-content: center;
     gap: 30px;
     .card {
-        max-width: 600px;
+        max-width: 500px;
         background-color: #fff;
         padding: 60px;
         box-shadow: rgba(255, 247, 0, 0.2) 0px 8px 24px,rgba(255, 14, 207, 0.51) 0px 8px 24px,rgba(255, 255, 255, 1) 0px 8px 24px;

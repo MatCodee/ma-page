@@ -1,4 +1,10 @@
 export default {
+  loading: {
+    continuous: true,
+    rtl: false,
+    css: false,
+    loader: '@/components/Loader.vue'
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Agencia de Marketing Digital -  growiit',
@@ -23,16 +29,7 @@ export default {
       { rel: 'stylesheet', href: "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"},
     ],
   },
-  loading: {
-    color: 'blue',
-    continuous: true,
-    height: '5px',
-    throttle: 200,
-    duration: 3000,
-    rtl: false,
-    css: false,
-    loader: '@/components/Loader.vue'
-  },
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     '~assets/css/main.css',

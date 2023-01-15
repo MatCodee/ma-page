@@ -42,16 +42,16 @@ export default {
       items: [
         {
           id: 1,
-          src: require("@/assets/images/web/proyecto1.jpg"),
+          src: require("@/assets/images/Desing/proyecto1.jpg"),
           alt: "image1",
-          filter: "Web",
+          filter: "desing",
           visible: true,
         },
         {
           id: 2,
-          src: require("@/assets/images/web/proyecto2.jpg"),
+          src: require("@/assets/images/Desing/proyecto2.jpg"),
           alt: "image2",
-          filter: "Web",
+          filter: "desing",
           visible: true,
         },
         {
@@ -59,6 +59,27 @@ export default {
           src: require("@/assets/images/Desing/desing1.jpg"),
           alt: "image3",
           filter: "desing",
+          visible: true,
+        },
+        {
+          id: 4,
+          src: require("@/assets/images/web/proyecto1.jpg"),
+          alt: "image3",
+          filter: "Web",
+          visible: true,
+        },
+        {
+          id: 5,
+          src: require("@/assets/images/web/proyecto2.jpg"),
+          alt: "image3",
+          filter: "Web",
+          visible: true,
+        },
+        {
+          id: 6,
+          src: require("@/assets/images/web/proyecto3.jpg"),
+          alt: "image3",
+          filter: "Web",
           visible: true,
         },
       ],
@@ -82,6 +103,7 @@ export default {
     max-width: 1800px;
     margin: auto;
     text-align: center;
+    margin-bottom: 100px;
     h2 {
         margin-top: 40px;
         font-size: 2rem;

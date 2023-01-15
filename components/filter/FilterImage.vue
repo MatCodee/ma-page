@@ -32,8 +32,8 @@
 
   <style lang="scss" scoped>
   .img-responsive {
-    width: 600px;
-    height: 400px;
+    max-width: 800px;
+    width: 100%;
     object-fit: cover;
     border-radius: 30px;
     box-shadow: rgba(255, 247, 0, 0.2) 0px 8px 24px,rgba(255, 14, 207, 0.51) 0px 8px 24px,rgba(255, 255, 255, 1) 0px 8px 24px;

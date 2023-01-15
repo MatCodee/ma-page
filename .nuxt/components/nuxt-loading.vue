@@ -10,7 +10,7 @@ export default {
       skipTimerCount: 0,
       rtl: false,
       throttle: 200,
-      duration: 3000,
+      duration: 5000,
       continuous: true
     }
   },
