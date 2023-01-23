@@ -6,7 +6,7 @@
         <div class="item" data-aos="fade-up" data-aos-delay="100" data-aos-duration="2000">
             <h2> Nuestro Servicio </h2>
             <p> Ofrecemos una amplia gama de servicios de marketing, incluyendo publicidad en línea, marketing automatizado, inteligencia artificial, marketing de contenidos, SEO, y estrategias de email marketing. Además, ofrecemos servicios de análisis y medición de resultados para ayudar a nuestros clientes a medir el éxito de sus campañas. </p>
-            <a href="#" class="btn-primary">Comenzar</a>
+            <nuxt-link  to="/portafolio/" class="btn-primary">Comenzar</nuxt-link>
         </div>
     </div> 
 </template>

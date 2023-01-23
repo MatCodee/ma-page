@@ -14,7 +14,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Esta es una pagina de una agencia de marketing digital, donde el objetivo es crecer los negocios de los clientes' },
+      { hid: 'description', name: 'description', content: 'Agencia de Marketing especializada en mejorar la visibilidad y el rendimiento en línea de su empresa. Ofrecemos servicios personalizados de SEO, publicidad en línea, análisis de datos y diseño web para aumentar el tráfico y las conversiones en su sitio web. Trabajamos con un equipo de expertos en marketing digital para asegurarnos de que su empresa alcance su máximo potencial en línea. ¡Contactarnos para una consulta gratuita hoy!' },
       { name: 'keywords', content: "Agencia, Marketing, Negocio,Tegnologia,Publicidad, Digital"},
       { name:"author", content:"Matias Altamirano" },
       { name:"copyright", content:"Propietario del copyright" },

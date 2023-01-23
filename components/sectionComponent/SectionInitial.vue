@@ -12,7 +12,7 @@
                 <div class="content-title">
                     <h1 class="title"> Aumentas tus ventas </h1>
                     <p class="subtitle"> Ayudamos a las empresas a alcanzar su máximo potencial a través del uso de las últimas tecnologías y estrategias de marketing innovadoras.</p>
-                    <a href="#" class="btn-primary btn-animation">Comenzar</a>
+                    <nuxt-link  to="/portafolio/" class="btn-primary btn-animation">Comenzar</nuxt-link>
                 </div>
             </div>
             <div class="item3"> 
