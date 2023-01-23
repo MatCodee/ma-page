@@ -15,7 +15,6 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Agencia de Marketing Digital especializada en SEO, PPC, análisis y diseño web. Mejoramos tu visibilidad y rendimiento en línea. Consulta gratis.' },
-      { name: 'keywords', content: "Agencia, Marketing, Negocio,Tegnologia,Publicidad, Digital"},
       { name:"author", content:"Matias Altamirano" },
       { name:"copyright", content:"Propietario del copyright" },
       { name:"robots", content:"index" },
