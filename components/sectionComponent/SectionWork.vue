@@ -7,7 +7,7 @@
                 <ProjectCard :project="p" />
             </div>
         </div>
-        <nuxt-link class="btn-primary" to="/portafolio/">See more</nuxt-link>
+        <nuxt-link class="btn-primary" to="/portafolio/">Portafolio de Proyectos</nuxt-link>
     </div>
 </template>
 
