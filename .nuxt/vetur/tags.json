@@ -20,17 +20,17 @@
   "Tutorial": {
     "description": "Auto imported from components/Tutorial.vue"
   },
-  "BaseButtonToggle": {
-    "description": "Auto imported from components/base/ButtonToggle.vue"
-  },
-  "BaseProjectCard": {
-    "description": "Auto imported from components/base/ProjectCard.vue"
-  },
   "FilterButton": {
     "description": "Auto imported from components/filter/FilterButton.vue"
   },
   "FilterImage": {
     "description": "Auto imported from components/filter/FilterImage.vue"
+  },
+  "BaseButtonToggle": {
+    "description": "Auto imported from components/base/ButtonToggle.vue"
+  },
+  "BaseProjectCard": {
+    "description": "Auto imported from components/base/ProjectCard.vue"
   },
   "SectionInitial": {
     "description": "Auto imported from components/sectionComponent/SectionInitial.vue"

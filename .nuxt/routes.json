@@ -4,31 +4,27 @@
     "path": "/nosotros",
     "component": "C:\\\\Users\\\\Matias\\\\Desktop\\\\Organizacion de los documentos de programacion\\\\Programacion\\\\Aplicaciones en Produccion\\\\Growiit\\\\growiit-netlify\\\\gorwiit\\\\pages\\\\nosotros.vue",
     "chunkName": "pages/nosotros",
-    "url": "/nosotros",
-    "_name": "_52c5ba0d"
+    "url": "/nosotros"
   },
   {
     "name": "portafolio",
     "path": "/portafolio",
     "component": "C:\\\\Users\\\\Matias\\\\Desktop\\\\Organizacion de los documentos de programacion\\\\Programacion\\\\Aplicaciones en Produccion\\\\Growiit\\\\growiit-netlify\\\\gorwiit\\\\pages\\\\portafolio.vue",
     "chunkName": "pages/portafolio",
-    "url": "/portafolio",
-    "_name": "_39f7ee77"
+    "url": "/portafolio"
   },
   {
     "name": "servicios",
     "path": "/servicios",
     "component": "C:\\\\Users\\\\Matias\\\\Desktop\\\\Organizacion de los documentos de programacion\\\\Programacion\\\\Aplicaciones en Produccion\\\\Growiit\\\\growiit-netlify\\\\gorwiit\\\\pages\\\\servicios.vue",
     "chunkName": "pages/servicios",
-    "url": "/servicios",
-    "_name": "_7603e702"
+    "url": "/servicios"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Matias\\\\Desktop\\\\Organizacion de los documentos de programacion\\\\Programacion\\\\Aplicaciones en Produccion\\\\Growiit\\\\growiit-netlify\\\\gorwiit\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "url": "/",
-    "_name": "_76567d74"
+    "url": "/"
   }
 ]

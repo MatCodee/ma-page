@@ -5,8 +5,8 @@
       <ButtonToggle />
       -->
       <ul>
-        <li><nuxt-link  to="servicios">Servicios</nuxt-link></li>
-        <li><nuxt-link  to="portafolio">Portafolio</nuxt-link></li>
+        <li><nuxt-link  to="/servicios/">Servicios</nuxt-link></li>
+        <li><nuxt-link  to="/portafolio/">Portafolio</nuxt-link></li>
         <!--
         <li><nuxt-link  to="nosotros">Acerca de Nosotros</nuxt-link></li>
         -->
@@ -36,8 +36,8 @@
           />
           <h3>Bienvenido a Growiit</h3>
           <ul>
-            <li><nuxt-link  to="servicios">Servicios</nuxt-link></li>
-            <li><nuxt-link  to="portafolio">Portafolio</nuxt-link></li>
+            <li><nuxt-link  to="/servicios/">Servicios</nuxt-link></li>
+            <li><nuxt-link  to="/portafolio/">Portafolio</nuxt-link></li>
             <!--
               <li><nuxt-link  to="nosotros">Acerca de Nosotros</nuxt-link></li>
             -->
