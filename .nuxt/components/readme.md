@@ -12,7 +12,6 @@ You can directly use them in pages and other components without the need to impo
 - `<Header>` | `<header>` (components/Header.vue)
 - `<Loader>` | `<loader>` (components/Loader.vue)
 - `<Section>` | `<section>` (components/Section.vue)
-- `<Tutorial>` | `<tutorial>` (components/Tutorial.vue)
 - `<BaseButtonToggle>` | `<base-button-toggle>` (components/base/ButtonToggle.vue)
 - `<BaseProjectCard>` | `<base-project-card>` (components/base/ProjectCard.vue)
 - `<FilterButton>` | `<filter-button>` (components/filter/FilterButton.vue)

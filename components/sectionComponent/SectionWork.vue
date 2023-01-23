@@ -20,17 +20,17 @@ export default {
                 {
                     title: 'Desarrollo Web',
                     description: 'Creacion de us sitio a su medida',
-                    image: require('@/assets/images/p1.png')
+                    image: require('@/assets/images/p1.jpg')
                 },
                 {
                     title: 'Posicionamiento SEO',
                     description: 'Posicionar su sitio en los primeros lugares de la internet',
-                    image: require('@/assets/images/p2.png')
+                    image: require('@/assets/images/p2.jpg')
                 },
                 {
                     title: 'Rediseño de su pagina web',
                     description: 'Mejorar la interfaz enfocandose en su usuario',
-                    image: require('@/assets/images/p3.png')
+                    image: require('@/assets/images/p3.jpg')
                 }
             ]
         }

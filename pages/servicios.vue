@@ -1,7 +1,7 @@
 <template>
     <div class="global-container">
         <div class="container-title">
-            <h2>Servicios</h2>
+            <h1>Nuestros Servicios</h1>
         </div>
         <div class="container-card">
             <div class="card" v-for="item in services" :key="item.id">

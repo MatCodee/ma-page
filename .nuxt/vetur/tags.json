@@ -17,9 +17,6 @@
   "Section": {
     "description": "Auto imported from components/Section.vue"
   },
-  "Tutorial": {
-    "description": "Auto imported from components/Tutorial.vue"
-  },
   "BaseButtonToggle": {
     "description": "Auto imported from components/base/ButtonToggle.vue"
   },

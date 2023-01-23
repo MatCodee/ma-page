@@ -1,6 +1,6 @@
 <template>
   <div class="container-element-filter">
-    <h2>Nuestros Proyectos</h2>
+    <h1>Nuestros Proyectos</h1>
     <div class="group-btn">
         <FilterButton
         v-for="filter in filters"
