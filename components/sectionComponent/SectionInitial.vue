@@ -19,8 +19,11 @@
                 <img class="mov-img" src="@/assets/images/fondo4.jpg" alt="Imagen de personas de la empresa de agencia de marketing" />
             </div>
         </div>
-
+        
+        <!--
         <div class="background-element"></div>
+
+        -->
     </div>
 </template>
 

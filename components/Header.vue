@@ -24,6 +24,8 @@
           src="@/assets/images/logo.svg"
           class="header-logo"
           alt="logo de la empresa growiit"
+          width="40"
+          height="20"
         />
       </nuxt-link>
       <MenuIcon @click="openTogleButton()" />
