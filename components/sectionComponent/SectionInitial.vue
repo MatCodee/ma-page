@@ -20,10 +20,7 @@
             </div>
         </div>
         
-        <!--
         <div class="background-element"></div>
-
-        -->
     </div>
 </template>
 
